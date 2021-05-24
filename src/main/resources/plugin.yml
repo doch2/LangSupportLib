@@ -1,0 +1,11 @@
+name: Langsupportlib
+version: ${project.version}
+main: com.dochsoft.langsupportlib.Langsupportlib
+api-version: 1.16
+authors: [ doch13_ ]
+description: This iod
+website: https://github.com/doch2/LangSupportLib
+commands:
+  addItemLocalName:
+    description: ddddddd
+    aliases: [ 아이템이름추가 ]
